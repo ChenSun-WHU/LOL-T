@@ -1,5 +1,5 @@
 # LOLT156
-*LOLT156: A Low-Light and Thermal Infrared Object Tracking Benchmark*
+**LOLT156: A Low-Light and Thermal Infrared Object Tracking Benchmark**
 
 ![Examples of the LOLT156](https://github.com/ChenSun-WHU/LOL-T/blob/main/LOLT156_example.png) 
 
